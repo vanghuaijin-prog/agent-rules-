@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-06-27 12:50:22",
+  "source_docx": "/Users/apple/Desktop/内蒙古蒙西叶片技改协议.docx",
+  "plan_path": "/Users/apple/Desktop/Inbox/skill-packages_contract-copilot/review-plan.json",
+  "plan_meta": {
+    "contract_name": "中车蒙西EN171叶片维修联合协议",
+    "client": "乙方",
+    "reviewer": "梁月十三",
+    "edit_policy": "revise-first",
+    "tone": "regular",
+    "client_name": "乙方",
+    "party_role": "乙方",
+    "review_intensity": "常规",
+    "reviewer_organization": "【待确认】",
+    "reviewer_department": ""
+  },
+  "reviewer_profile": {
+    "author": "梁月十三",
+    "initials": "",
+    "organization": "【待确认】",
+    "department": "",
+    "confirmed": true,
+    "time_gap_min_minutes": 5,
+    "time_gap_max_minutes": 10
+  },
+  "review_context": {
+    "contract_name": "中车蒙西EN171叶片维修联合协议",
+    "client_name": "乙方",
+    "party_role": "乙方",
+    "review_intensity": "常规",
+    "edit_policy": "revise-first",
+    "memory_contract_hit": false,
+    "memory_client_hit": false
+  },
+  "edit_policy": "revise-first",
+  "output_docx": "/Users/apple/Desktop/内蒙古蒙西叶片技改协议_审查版.docx",
+  "report_path": "/Users/apple/Desktop/Inbox/skill-packages_contract-copilot/archive/20260627_125021_中车蒙西EN171叶片维修联合协议/内蒙古蒙西叶片技改协议_审查版_审查报告.md",
+  "report_docx_path": "/Users/apple/Desktop/内蒙古蒙西叶片技改协议_审查版_审查报告.docx",
+  "applied": 0,
+  "failed": 0,
+  "skipped": 0,
+  "report_only": 0,
+  "results": []
+}
