@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+*.swo
+*~
+Thumbs.db
+.localized
+.~*.docx
+.~*.doc
