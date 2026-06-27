@@ -1,0 +1,22 @@
+{
+  "contracts": {
+    "中车蒙西en171叶片维修联合协议": {
+      "contract_name": "中车蒙西EN171叶片维修联合协议",
+      "client_name": "乙方",
+      "party_role": "乙方",
+      "review_intensity": "常规",
+      "edit_policy": "revise-first",
+      "source_filename": "内蒙古蒙西叶片技改协议.docx",
+      "last_reviewed_at": "2026-06-27T12:50:21+08:00"
+    }
+  },
+  "clients": {
+    "乙方": {
+      "client_name": "乙方",
+      "preferred_party_role": "乙方",
+      "preferred_review_intensity": "常规",
+      "last_contract_name": "中车蒙西EN171叶片维修联合协议",
+      "updated_at": "2026-06-27T12:50:21+08:00"
+    }
+  }
+}
