@@ -8,6 +8,24 @@
       "edit_policy": "revise-first",
       "source_filename": "内蒙古蒙西叶片技改协议.docx",
       "last_reviewed_at": "2026-06-27T12:50:21+08:00"
+    },
+    "工会慰问物资采购合同": {
+      "contract_name": "工会慰问物资采购合同",
+      "client_name": "中共深圳市龙华区委社会工作部",
+      "party_role": "甲方",
+      "review_intensity": "强势",
+      "edit_policy": "revise-first",
+      "source_filename": "20260630端午采购合同（定稿）.docx",
+      "last_reviewed_at": "2026-06-30T23:06:03+08:00"
+    },
+    "深圳新闻网本土新媒体网络宣传项目合同": {
+      "contract_name": "深圳新闻网本土新媒体网络宣传项目合同",
+      "client_name": "中共深圳市宝安区委宣传部",
+      "party_role": "甲方",
+      "review_intensity": "强势",
+      "edit_policy": "revise-first",
+      "source_filename": "“深圳新闻网”本土新媒体网络宣传项目合同.docx",
+      "last_reviewed_at": "2026-06-30T23:07:14+08:00"
     }
   },
   "clients": {
@@ -17,6 +35,20 @@
       "preferred_review_intensity": "常规",
       "last_contract_name": "中车蒙西EN171叶片维修联合协议",
       "updated_at": "2026-06-27T12:50:21+08:00"
+    },
+    "中共深圳市龙华区委社会工作部": {
+      "client_name": "中共深圳市龙华区委社会工作部",
+      "preferred_party_role": "甲方",
+      "preferred_review_intensity": "强势",
+      "last_contract_name": "工会慰问物资采购合同",
+      "updated_at": "2026-06-30T23:06:03+08:00"
+    },
+    "中共深圳市宝安区委宣传部": {
+      "client_name": "中共深圳市宝安区委宣传部",
+      "preferred_party_role": "甲方",
+      "preferred_review_intensity": "强势",
+      "last_contract_name": "深圳新闻网本土新媒体网络宣传项目合同",
+      "updated_at": "2026-06-30T23:07:14+08:00"
     }
   }
 }
